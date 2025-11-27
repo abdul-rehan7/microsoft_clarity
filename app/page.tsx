@@ -197,7 +197,7 @@ export default function Home() {
               Get In Touch
             </h2>
             <p className="text-lg text-gray-600 dark:text-gray-300 max-w-3xl mx-auto">
-              Ready to start your next project? We'd love to hear from you and discuss how we can help.
+              Ready to start your next project? We&apos;d love to hear from you and discuss how we can help.
             </p>
           </div>
           <div className="max-w-2xl mx-auto">
